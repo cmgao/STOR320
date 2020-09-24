@@ -2,7 +2,7 @@
 title: "Final Paper"
 author: "STOR 320.(02) Group 6"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
